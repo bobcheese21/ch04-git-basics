@@ -1,6 +1,6 @@
 # Exercise 3
 
-## _GREETINGS_
+ _GREETINGS_
 
 Learn the basics of git workflow:
 
